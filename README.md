@@ -1,6 +1,6 @@
 # Cancer_prediction
 
-The Cancer Prediction project is a machine learning-based application developed using a Jupyter Notebook. It utilizes a dataset containing medical data to predict the likelihood of cancer occurrence. The project processes and analyzes the data, applies machine learning algorithms, and generates predictions with performance evaluation. The output folder stores generated results like plots and reports.
+The Cancer Prediction project is a machine learning-based application developed using a Jupyter Notebook. It utilizes a dataset containing medical data to predict the likelihood of cancer occurrence. The project processes and analyzes the data, applies machine learning algorithms, and generates predictions with performance evaluation. The output folder stores generated results.
 
 ### Features
 
